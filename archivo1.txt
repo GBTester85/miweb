@@ -3,7 +3,15 @@ Comandos para GIT dentro de VSCode
 1) git init - Para iniciarlizar GIT en nuestro equipo
 2) git version - Para saber las versiones de GIT instaladas en el equipo
 3) git add - Para agregar archivos dentro del stage
-4) git status - Para saber el estado de las operaciones
+4) git status - Para saber el estado de las operaciones dentro del repo
 5) git config --global user.name "Nombre de Usuario"
 6) git config --global user.mail "Mail de Usuario"
-7) git config --global core.editor "code --wait"
+7) git config --global core.editor "code --wait" - Es para que la terminal se quede esperando hasta que terminemos de utilizar el editor de texto.
+8) git config --global core.autocrlf true (Para Windows) input (Para MacOS) - Para configurar los saltos de linea.
+
+Estados de GIT
+
+1) Computadora o Host
+2) Stage
+3) Commit
+4) Server - Push - Merge
