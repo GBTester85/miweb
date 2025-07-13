@@ -13,7 +13,7 @@ Comandos para GIT dentro de VSCode
 11) git restore nombredelarchivo - Permite descartar los cambios recuperados anteriormente.
 12) git branch - Nos dice en que rama / branch estamos ubicados.
 13) git checkout -b nombredelarama - Para crear una nueva rama
-14)
+14) git merge nombredelarama - Ubicados en la rama main o master traemos los archivos o cambios de otras ramas.
 
 Estados de GIT
 
