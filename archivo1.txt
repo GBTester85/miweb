@@ -8,6 +8,12 @@ Comandos para GIT dentro de VSCode
 6) git config --global user.mail "Mail de Usuario"
 7) git config --global core.editor "code --wait" - Es para que la terminal se quede esperando hasta que terminemos de utilizar el editor de texto.
 8) git config --global core.autocrlf true (Para Windows) input (Para MacOS) - Para configurar los saltos de linea.
+9) git log --oneline - Nos muestra el historial de commits con un ID y titulo.
+10) git restore --staged nombredelarchivo - Permite recuperar o deshacer algo de staged pendiente.
+11) git restore nombredelarchivo - Permite descartar los cambios recuperados anteriormente.
+12) git branch - Nos dice en que rama / branch estamos ubicados.
+13) git checkout -b nombredelarama - Para crear una nueva rama
+14)
 
 Estados de GIT
 
